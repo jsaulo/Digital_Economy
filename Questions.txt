@@ -1,0 +1,62 @@
+Questions.
+
+1.	COVID-19 pandemic has caused significant changes on everyone’s daily live. Some of these changes are actually beneficial in the context of a developing digital economy; what do you consider those changes are?
+The uptake of digital tools by schools, companies, and government, in basically all the fields nowadays existent (from economy to healthcare). Years of development happened in the lapse of months as consequence of social distancing and work from home politics; and this is expected to have lasting effects regarding digital transformation, therefore, digital economy.
+
+2.	There is one main problem regarding equality of opportunities with the change described in the previous question, could you describe it?
+There is significant different on Internet and digital services usage depending on factors as age group and education level. 95% of people of lower age range (16-24) and with minimal formal education are active Internet users, compared to the 40% of adults without formal education. This digital gap is expected to magnify inequality around the world, but its true effects are yet to be seen in the coming years.
+
+3.	Digital policy in the digital age is key for a proper development, however, as an emerging field, digital policy needs to be built from the ground. Mention one of the things that matters the most for this policy. 
+Promote competition to drive investment in communication infrastructure/Ensure technical enables are in place/Boost connectivity in rural and remote areas/Enhance access to and sharing of data.
+
+4.	Digital government has started to take place in many countries, but it still has a lot of opportunity areas to explore. Can you mention some of them?
+Digitalization of many analogous processes, answering to user needs, adapt administrative processes to a digital world, etc.
+
+5.	As we are in a new, digital age, most new companies are looking for specialized talent. What are the skills these companies are looking for nowadays?
+First, they need employees with good literacy and numeracy, and second, they should seek for problem solving and IT-related skills. Social (‘soft’) skills also play an important role.
+
+6.	In order to reach a good digital policy, it is necessary to increase the effective use of digital technologies. What are some good approaches for this goal?
+Close the usage gap between people with different levels of education/Boost diffusion of digital tools in enterprises/Seek a holistic and user-driven digital government (instead of an e-government)/Raising awareness of digital risks.
+
+7.	How can digital technologies help governments?
+By making them more efficient, reduce waste, and working as a base to develop, design, and enforce policies and regulations.
+
+8.	Innovation is key in this digital age, and without a doubt it should be considered for the making of an effective digital policy. What are some good ways to promote innovation?
+Reducing regulatory burdens for start-ups/Re-evaluate regulations that are no longer fit for this age/Promote investment in Research & Development, as well as intangible assets/Foster knowledge diffusion/Encourage policy experimentation and new business models.
+
+9.	Digital transformation comes together with new social issues. Can you identify some of them?
+Problems with the ‘transparency’ of AI and autonomous decision making, such as possible biases. Easier spread of misinformation. 
+
+10.	What is happening to privacy as digital transformation progresses?
+Privacy is emerging as a critical factor for trust (mainly on the side of personal data protection). It should be considered from the first design phase of any new product or service.
+
+11.	What are some good ways to acquire and improve digital security?
+Mainly by following well-established security standards to mitigate possible consequences of security-related incidents. Cyber insurance can also be an alternative, as it would allow the ‘transference’ of some risk from your company to another one. 
+
+12.	Mention some of the advantages of strengthening competition in the digital age.
+Lower prices and greater variety of goods for consumers, support of trade and investment, spurring innovation, new business models, and much more.
+
+13.	How is international trade affected by digital technologies?
+Mainly by reducing trade costs, but other benefits include easier coordination of global value chains, diffusion of ideas and technologies across borders, and connection of business and consumers globally. 
+
+14.	What are the most important points for a digital policy in the context of seeking a better market openness?
+Lower trade barriers, mainly for digital services/Monitor trends in market concentration and dominance in digital sectors/Reduce barriers to international investment/Ensure that tax systems are fit for purpose in this digital age.
+
+15.	There are many challenges when it comes to public trust in the digital age. Mention and explain at least one of them
+[Possible answer should talk about information disclosure, misleading or unfair commercial practices, fraud and identity theft, product safety, etc.]
+
+16.	One of the biggest areas of opportunity for digital technologies is with respect to the environment. Why?
+Because digital technologies can support ‘green’ growth: by maximizing efficiency of smart infrastructure and cities. As long as managed correctly, this type of technologies should be overall beneficial. 
+
+17.	Explain at least one of the main concerns of digital technologies in the healthcare field. 
+[Concerns are regarding personal data protection, security, quality, and safety]
+Example answer: by using digital technologies in this field for, let us say, having digital, permanent health records of patients, it is important to ensure that those health records will be correctly secured. Otherwise, they could be easily ‘stolen’ and become a threat to the patient’s security.
+
+18.	Why is social protection so important in this digital age?
+Because just as in any other age, workers are key for the development of this one, and if workers are not taken care of, this stage of development will ‘fail’. Let us understand social protection as allowing workers to transition from one job to another, or to obtain a fair job with ease as long as they accomplish minimum qualifications.
+
+19.	Why is regional development so important in this age?
+A clear example that answers this question happens in our own country, Mexico, where the north of the country (the states in the border with USA), are the responsible for most of the PIB of the country, while the states in the south are usually considered or seen as ‘underdeveloped’ or even ‘lazy’. This is the type of difference that must be avoided, or in this case, the gap that must be closed by advocating for fair regional development policies. 
+
+20.	Why is data emerging as a vital resource?
+Because data is a driver of economic activity and an input into production in some cases. Therefore, improving the access to data is important, as long as it is within a proper data sharing policy. 

@@ -1,0 +1,56 @@
+Overview of digital economy in 2021.
+
+We are living an era of change, and not just because of all the changes COVID-19 has brought, but also because we are in the middle of a new industrial revolution: the era of the industry 4.0. 
+To put this idea in a bit more of context, let us review some historical changes humanity has gone through, the industrial revolutions:
+•	Starting in the 18th century with the invention of the steam engine, agriculture started to be replaced by mechanized industry as the nucleus of economy. This was the first industrial revolution.
+•	In the 19th century, technology advancements and the discovery of new energy sources (electricity, gas, oil) allowed humanity to make great progress in different industry, 
+	ranging from chemical synthesis and the creation of the telephone to the first automobiles and planes. This was the second industrial revolution, usually considered the most important one.
+•	Lastly, in the second half of the 20th century, there were two main discoveries that marked the third industrial revolution: the discovery of nuclear energy, and the rise of electronics and 
+	telecommunications (specifically, the invention of computers). This, of course, opened the doors to the creation of the Internet.
+
+All the previous revolutions and inventions allowed us to reach the new era of changes we are living today: a new paradigm of economy has emerged, the digital economy. 
+Advancements in telecommunications and the global spread of the Internet are changing the way people work, buy, sell, communicate, learn, and even entertain themselves. This is the fourth industrial revolution. 
+Within the last 20 months, COVID-19 has certainly boosted the adoption of new technologies, and therefore, the development of this fourth industrial revolution we are going through. 
+As explored in the OECD Digital Economy Outlook 2020, the longer-term effects of the pandemic on digital transformation are just beginning to emerge, and significant changes in social norms, politics, digital policies, and 
+of course economy are expected.
+
+A change as big as an industrial revolution is not limited to only economy. We can see the effects of this digital transformation in many different aspects today:
+•	The most egregious example being the shift from a ‘normal’ classroom learning environment, to what we know as ‘distance learning’. This mainly due to the pandemic but made possible thanks 
+	to the many digital platforms that already existed (Google classroom, Microsoft teams, Zoom, Skype, etc.).
+•	In a big scale, new technologies are also playing a huge role on saving lives: the COVID-19 vaccine was developed in under a year as part of global cooperation effort, and this is something remarkable 
+	made possible thanks to digital technologies and opening the doors to new possible fast development processes. For comparison, the previous fastest-developed vaccine (mumps vaccine) took 4 years to develop.
+
+Keeping in mind that industry 4.0 relies in information and communication technologies (ICT), it becomes clear that it would be necessary to maintain a stable development of them. 
+This development would of course oversee each individual nation worldwide, and to keep a track of how developed each nation is becoming, fixed metrics would be necessary. 
+The organization economic cooperation and development (OECD) had this clear and established 14 indicators for that same purpose, some of the most important are:
+•	Evolution of ICT investments, as a percentage of total investments. This metric lets us see how important the role of ICT in a country’s economy is, logically, a higher number would mean a higher rate of digital adoption.
+•	Small and medium enterprises with broadband access, fixed or mobile. This is an interesting metric and context dependent as well; however, 
+	it can be a good indicator of the degree of ‘innovation’ the enterprises in each country have: a ‘connected’ enterprise can be considered to have a ‘updated’ business model.
+•	 Households with broadband connections, urban and rural. This is merely a measure of how connected the population of a country is, but this same concept is key to understand the rate of ICT development.
+
+Going back to the idea of ‘innovation’ in enterprises, we can see how the digital transformation has changed the way society behaves and opened the doors to digital economy: 
+in 2018, a study by the Dutch Transformation Forum compiled data of 242 digital platforms, which turned out to be worth a combined 7.2 trillion USD, where the 7 biggest platforms (Google, Amazon, Tencent, etc.) 
+were worth a combined 69% of that 7.2 trillion.
+
+By this point, it should be clear that digital economy is here to stay, and the new ICT-based business models can confirm that. To exemplify this, I could easily talk about Uber, or Amazon, 
+or any other big company, but I want to take the freedom to talk about one of the most recent derivates of digital economy, and a subproduct of modern content creation: the creators economy. 
+Please take in consideration the following example:
+•	You might be familiar with ‘Squid game’, the popular drama that became Netflix’s most watched series in September of this year with over 142 million views. 
+•	Squid Game, as stated in interviews with its creator, took over 10 years to make: from writing the script, finding a studio willing to produce it, and producing it. 
+	The total cost to produce the 9-episodes series was a total of $21.4 million, with a total length of 485 minutes.
+•	Popular YouTuber ‘Mr. Beast’ recreated scenarios from Squid Game, while following the concept of the series in a real-life stunt. His 25-minutes video took 10 days to make and $3.5 million, 
+	and up to today -13 days after its premiere-, it has 155 million views.
+
+As there might be many things to argue in the previous comparison, one thing is clear: creator economy represents a new business model in the paradigm of digital economy. 
+The production of short real-life stunts is on its peak right now, with Tiktok-like feeds being imitated by many big tech companies (Instagram reels, Youtube shorts, Facebook stories, etc.) 
+and new popular content creators coming from everywhere.
+
+All in all, I do believe that in this new era of transformation, it is extremely necessary to be able to adapt to changes, as what we might think as ‘standard’ today might become outdated as soon as tomorrow, 
+and what we might think is just science fiction, might be in the process of becoming real.
+
+
+References.
+OECD Digital Economy Outlook 2020. Retrieved from: https://www.oecd-ilibrary.org/sites/bb167041-en/index.html?itemId=/content/publication/bb167041-en&_csp_=509e10cb8ea8559b6f9cc53015e8814d&itemIGO=oecd&itemContentType=book
+OECD Key ICT Indicators. Retrieved from: https://www.oecd.org/digital/broadband/oecdkeyictindicators.htm
+Institute of Entrepreneurship Development. ‘The four industrial transformations’. Retrieved from: https://ied.eu/project-updates/the-4-industrial-revolutions/
+TechCrunch. ‘MrBeast’s ‘Real Life Squid Game’ and the price of viral stunts’. Retrieved from: https://techcrunch.com/2021/12/03/mrbeast-squid-game-creator-economy-viral/

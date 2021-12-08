@@ -1,0 +1,87 @@
+1.	Digital transformation is directly related with e-commerce. Could you mention what is their relation?
+Digital transformation enables all the e-commerce innovations brings, and it is the ‘backbone’ of new digital business models.
+
+2.	What benefits did e-commerce provide to businesses in countries on lockdown during the COVID-19 pandemic?
+Many business that relied on physical operations (mainly restaurants) turned to digital platforms to survive. As COVID-prevention orders restrained physical operations of many businesses (in Mexico), 
+e-commerce played a crucial role on saving a significant number of businesses through the country.
+
+3.	What are the main two ways in which e-commerce is expanding through new business models? 
+First, by enabling more transactions to happen online (buying directly from retailers, for example). Second, by enabling new markets to emerge or join an ‘online modality’, 
+like services not previously available online, or completely new business paradigms (like the ‘creators’ economy’).
+
+4.	E-commerce enables sales of previously unprofitable products (e.g. niche). Why do you think this happens?
+Mainly because of the large number of possible buyers, and the fact that you can advertise your product at a national and/or international level, 
+while people interested in buying this specific product can easily look it up online. This added to the low marginal costs of advertising products online, allowing for a bigger earning margin. 
+
+5.	What is the paper of big data analytics and AI in e-commerce?
+Broad question, the paper of AI/big data depends on the specific type of e-commerce we are talking about, but in a general sense, its objective is to optimize business strategies, 
+reducing costs, and improving sales using historical data to make predictions. Usual applications include product/content recommendations and targeted ads.
+
+6.	Is there any scientific proof that AI and big data analytics work?
+Yes, just to mention an example, in a paper by Andrey Fradkin in 2017, he found that algorithmic design within e-commerce websites can change the rate of matching between buyers and sellers. 
+In other words, a ‘good matching algorithm’ can significantly improve overall engagement and likelihood of matches.
+
+7.	What is the advantage that e-commerce platforms provide to sellers?
+The specific advantage depends on the type of seller: 
+•	Small vendors obtain the ‘backup’ of a bigger, well-trusted platform, allowing them to reach more potential customers.
+•	Bigger vendors (well established brands, usually) obtain a way to expand their market share, without having to invest into their own platform.
+
+8.	 To effectively sell and buy online, sellers usually need to take a range of complementary investments. How have online platforms capitalized on this?
+By offering that same range of complementary investments: fulfilment, logistics, customer service, software-as-a-service, etc. And contrary to what you might think, 
+these complements result very beneficial for sellers, as they save a considerable amount of time and money by not worrying about those extra services. 
+
+9.	‘Subscription’ business model is on the rise. What is it exactly?
+In few words, a ‘subscription’ business model consists in a regular, recurring payment for a good service, offering digital or tangible products. 
+Some well-known examples are Netflix with its monthly subscription that allows you to watch thousands of movies and series online. While an example of a ‘tangible’ product offer would be a ‘mystery box’ subscription, 
+where you receive a box containing a variety of items in regular periods.
+
+10.	(Semi off-topic question) ‘Subscription’ business model has found a way to join videogames industry. Many game developers have adopted and included this business models inside online games, 
+could you mention how is this model found in videogames?
+In a mechanic known as ‘battle pass’: many online multiplayer videogames occur in ‘seasons’ of fixed periods, where each season brings new content and a new battle pass. 
+The idea of the battle pass is to unlock game weapons, cosmetics, accessories, or game-currency the more you play, having to ‘renew’ your pass each season. 
+Buying a ‘battle pass’ almost always implies to spend real-life money in the game.
+
+11.	What is the ‘freemium’ strategy and how does it help smaller e-companies?
+ The ‘freemium’ strategy basically consists of offering a ‘free’ version of a product or service, with limited use. To unlock the ‘full’ product or service, you would have to pay either an upfront fee, 
+or a subscription. This is especially helpful for smaller companies as it allows potential customers to try the product or service before making the investment on it. 
+
+12.	Cloud computing plays a huge role in e-commerce. Could you mention one of the ways it enables any aspect of e-commerce? 
+(Many possible answers) By offering servers/hosts in different parts of the world, a good example of this is the Amazon Web Services and their servers located world-wide, allowing businesses to 
+host their websites in Amazon’s servers, and hosting videogame servers within different regions.
+
+13.	Traditional brick-and-mortar stores had to develop mechanism to survive in the context of the pandemic. Could you mention one of them?
+‘Click-and-collect’ type of mechanism were developed by many traditional stores, mainly by supermarkets like Walmart or Chedraui. This mechanism allows people to buy all they need from the website of 
+the retailers and have their products ready for pickup by the time they get to the store (or even delivered right to their car in the parking lot of the store).
+
+14.	With the number of online platforms on the rise, the number of business models they bring to Internet is also increasing. Could you mention some of these business models and an example of a platform using them?
+(Open question, many possible answers) Spotify and YouTube offering ad-supported content. PayPal as a FinTech platform. Uber Eats and Rappi as food delivery applications. Uber and Didi as on-demand transportation services. Etc. 
+
+15.	The shift in business models also changed the form of work of employees. Could you mention in what consist of these non-standard forms of work?
+In temporary jobs, part-time contracts, or self-employment. All these forms of work have been in the rise along the digital transformation, and average ‘9-to-5’ works are diminishing, 
+mainly due to the shifting needs of online platforms and the fact that individuals and their specialties might not keep up with those same needs. 
+
+16.	What is the result COVID-19 regarding policies to help business stay on float?
+Many countries created or improved initiatives to help small and medium businesses engage in e-commerce and online business models. In the case of Mexico, 
+solidarity campaigns were promoted to provide SMEs with cash flow during the pandemic and encouraged online sales.
+ 
+17.	The uptake of e-commerce and online business are also changing the way we pay for our products and services. How is this happening?
+By accelerating the uptake of electronic payment methods. This idea was reinforced by the pandemic, as using electronic payment methods was strongly encouraged to avoid physical contact. 
+In the case of Mexico, the payment platform CoDi was adjusted during the pandemic to ease the processing of e-payments.
+
+18.	As telephone and online enquiries significantly increased, a way to reduce the workload was needed. Could you mention what was the solution to this problem and how it has been implemented by many companies?
+Chatbots based on AI were the solution to this problem, allowing to reduce the staff or employees needed to keep up with the workload. IBM and Google provide chatbot services ‘off-the-shelf’, 
+using AI to parse the meaning of spoken or verbal communication and provide an predefined answer to the customer if possible.
+
+19.	COVID-19 may induce persistent changes in society and consumer habits and needs. How will these changes play a role in start-ups?
+By creating business opportunities ready to be capitalized by start-ups that anticipate these changes. As start-ups tend to be flexible, they can easily respond to changing needs and preferences.
+
+20.	How are science, technology, and innovation going digital?
+As digital transformation is impacting all sectors of economy, completely new digital products and services will appear in the coming years. Therefore, production processes (science, tech, innovation) 
+will be subject to substantial change, interactions human-machine will be on the rise. 
+
+
+Reference:
+
+OECD Digital Economy Outlook 2020. 
+Retrieved from: https://www.oecd-ilibrary.org/sites/bb167041-en/1/3/10/index.html?itemId=/content/publication/bb167041-en&_csp_=509e10cb8ea8559b6f9cc53015e8814d&itemIGO=oecd&itemContentType=book#section-175
+
